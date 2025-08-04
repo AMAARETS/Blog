@@ -1,0 +1,5 @@
+title: "ייייי"
+description: "תיאור קצר"
+baseurl: "/Blog"         # מיתאר את הנתיב הבסיסי (ללא הסלאש הסופי)
+url: "https://amaarets.github.io"
+theme: minima            # דוגמה לתבנית מובנית
