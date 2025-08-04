@@ -4,3 +4,4 @@ baseurl: "/Blog"         # מיתאר את הנתיב הבסיסי (ללא הס�
 url: "https://amaarets.github.io"
 theme: minima            # דוגמה לתבנית מובנית
 remote_theme: mmistakes/minimal-mistakes
+rtl: true    
